@@ -1,0 +1,32 @@
+aid: racinghub
+name: RacingHub
+description: "Formula 1 historical data and statistics"
+url: https://racinghub.net/api/v1/docs#/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: RacingHub
+    description: "Formula 1 historical data and statistics"
+    humanURL: https://racinghub.net/api/v1/docs#/
+    baseURL: https://racinghub.net/api/v1/docs#/
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://racinghub.net/api/v1/docs#/
+common:
+  - type: Website
+    url: https://racinghub.net/api/v1/docs#/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
