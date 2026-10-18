@@ -42,7 +42,8 @@ apis:
   - name: RacingHub
     description: "Formula 1 historical data and statistics"
     humanURL: https://racinghub.net/api/v1/docs#/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
